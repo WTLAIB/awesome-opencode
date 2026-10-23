@@ -1,0 +1,6 @@
+name: "Azure DevOps PR Review"
+repo: "https://github.com/WTLAIB/opencode-azure-devops-pr-review-v2"
+tagline: "OpenCode V2: review Azure DevOps PRs from a URL without checkout, with separate verification and comment previews"
+description: "Review Azure DevOps Services pull requests from a URL without a local checkout. Choose OpenCode models per role, use separate sessions to verify findings in review and deep modes, and preview inline comments before publishing. Quick mode skips separate verification. Supports an Azure forward proxy and custom CA certificates. Tested with OpenCode CLI 2.1.4 using the V2 plugin API; OpenCode 1.x and Azure DevOps Server are not supported."
+tags: ["azure-devops", "code-review", "opencode-v2"]
+homepage: "https://github.com/WTLAIB/opencode-azure-devops-pr-review-v2/blob/main/docs/QUICKSTART.md"
